@@ -17,14 +17,12 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=joey%20Cho&fontSize=120)
 
 <div align="center">
-  <br />
 <h3>❤️ About ❤️</h3>
 <h4> G'day, I'm joey!👋I'm a <span>front-end developer</span></h4>
 <p>🌏 Globetrotter</p>
 <p>🥛 Optimist</p>
 <p>☕ Coffeeholic</p>
 <p>📚 Bookworm</p>
-<br />
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
  
@@ -40,7 +38,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/MobX-FF9955?style=flat&logo=MobX&logoColor=white" />
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white" />
-    <br>
 </div>
 <br />
 <div align=center>
@@ -53,7 +50,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=AdobeXD&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 </div>
-<br>
+
 <div align=center>
     <h3>🎨 SNS & Portfolio 🎨</h3>
 </div>
@@ -68,7 +65,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
     </a>
     
-    <br>
 </div>
 <div align=center>
     <br><br>
