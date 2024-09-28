@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white" />
     <br>
 </div>
-<br>
+<br />
 <div align=center>
     <h4> Tools </h4>
 </div>
